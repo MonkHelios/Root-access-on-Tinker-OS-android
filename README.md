@@ -24,7 +24,7 @@
 
 * Download flashable Super SU zip file - [Recovery V2.79 Flashable.zip](https://supersuroot.org/download/) and extract it inside "android platform tools" directory, **not** within another directory.
 
-* Make sure that the tinker board and the PC are connected to the same network or prefferably connected to each other via USB or ethernet.
+* Make sure that the tinker board and the PC are connected to the same network or preferably connected to each other via USB or ethernet.
 
 ## Rooting tinker board:
 
