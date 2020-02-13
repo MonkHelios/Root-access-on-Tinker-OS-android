@@ -2,9 +2,9 @@
 
 Before carrying out these steps you need to install Android on the tinker board and conect required peripherals to it like a keyboard, mouse, screen and connect it to a network where your computer is also connected to.
 
-,,,
+```
 This documentation is for windows systems. Linux users need to do the linux equivalent tasks on a linux machine.
-,,,
+```
 
 ## Preparing the tinker board for root
 
