@@ -11,7 +11,7 @@ Before carrying out these steps you need to install Android on the tinker board 
 
 * Download [SuperSU V2.79.apk](https://supersuroot.org/download/) and install it on the tinker board
 
-* Enable developer options on the tinker board's android OS by selecting the about phone/tinker board in settings and clickiing on the build number at the bottom repeatedly untill it tells you that you are a developer
+* Enable developer options on the tinker board's android OS by selecting the about phone/tinker board in settings and clicking on the build number at the bottom repeatedly untill it tells you that you are a developer
 
 * Go into developer options inside settings and turn on USB debugging
 
