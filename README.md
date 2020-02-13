@@ -24,7 +24,7 @@
 
 * Download flashable Super SU zip file - [Recovery V2.79 Flashable.zip](https://supersuroot.org/download/) and extract it inside "android platform tools" directory, **not** within another directory.
 
-* Make sure that the tinker board and the PC are connected to the same network or preferably connected to each other via USB or ethernet.
+* Make sure that the tinker board and the PC are connected to the same network or preferably connected to each other via ethernet.
 
 ## Rooting tinker board:
 
@@ -32,7 +32,7 @@
 
 * Open the "android platform tools" directory and right click while pressing L-shift.
 
-* Select "open power shell wndow here" (the option name might vary) or open CMD/Powershell and cd into the "android platform tools" directory.
+* Select "open power shell window here" (the option name might vary) or open CMD/Powershell and cd into the "android platform tools" directory.
 
 * Find the IP address of the tinker board by running "ip a" in termux on the android OS.
 ```
