@@ -28,7 +28,7 @@
 
 ## Rooting tinker board:
 
-> on certain systems youmight have to use ./ before the powershell commands
+> on certain systems you might have to use ./ before the powershell commands
 
 * Open the "android platform tools" directory and right click while pressing L-shift.
 
