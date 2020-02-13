@@ -20,7 +20,7 @@
 
 * Download [android platform tools](https://developer.android.com/studio/releases/platform-tools) for your operating system and extract it somewhere in your computer which can be easily accessed.
 
-* Download the rootandroid.bat file and paste it in "android platform tools" directory.
+* Download the [rootandroid.bat](https://github.com/MonkHelios/Root-access-on-Tinker-OS-android) file and paste it in "android platform tools" directory.
 
 * Download flashable Super SU zip file - [Recovery V2.79 Flashable.zip](https://supersuroot.org/download/) and extract it inside "android platform tools" directory, **not** within another directory.
 
