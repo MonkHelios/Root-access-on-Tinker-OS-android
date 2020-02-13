@@ -40,7 +40,7 @@ ip a
 ```
 or go into "about phone" and into "status", here you will find the IP addr also.
 
-* on the powershell run 
+* in the powershell run 
 ```
 > adb connect 192.168.xxx.xxx:5555     (replace the tinke rboard IP address in place of the 'x')
 ```
